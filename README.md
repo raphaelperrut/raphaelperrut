@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-profile-banner.png" alt="Raphael Perrut — Software & Geospatial Engineer" width="100%">
+</p>
+
 # Raphael Perrut
 
 ### Software & Geospatial Engineer
