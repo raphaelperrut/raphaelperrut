@@ -79,6 +79,18 @@ Built as a tested and reproducible geospatial software package with a clean sepa
 
 ---
 
+### 🗺️ [Map Georeferencer](https://github.com/raphaelperrut/map-georeferencer)
+
+A Python toolkit for georeferencing raster maps and imagery from ground control points, with affine transformation estimation, residual analysis, RMSE calculation and GeoTIFF export.
+
+Built as a reproducible end-to-end raster processing workflow with GCP validation, least-squares transformation estimation, north-up warping and machine-readable accuracy reporting.
+
+`Python` · `NumPy` · `Rasterio` · `PyProj` · `Typer` · `pytest` · `GitHub Actions`
+
+**Highlights:** 34 automated tests · Continuous integration · Reproducible example · JSON accuracy reports · Python 3.12+ · MIT License · [v0.1.0](https://github.com/raphaelperrut/map-georeferencer/releases/tag/v0.1.0)
+
+---
+
 ### Projects in development
 
 ### 🗺️ Geospatial ETL Pipeline
@@ -86,14 +98,6 @@ Built as a tested and reproducible geospatial software package with a clean sepa
 A reproducible Python pipeline for ingesting, validating, transforming and loading heterogeneous geospatial datasets into PostGIS.
 
 `Python` · `GeoPandas` · `GDAL` · `PostGIS` · `Docker`
-
----
-
-### 🧭 Historical Map Georeferencer
-
-Tools for georeferencing historical maps and imagery, validating control points and producing GIS-ready raster outputs.
-
-`Python` · `GDAL` · `Rasterio` · `OpenCV` · `QGIS`
 
 ---
 
