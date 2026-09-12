@@ -67,9 +67,19 @@ I'm currently expanding my work in:
 
 ## 📌 Featured Projects
 
-My public project portfolio is currently being built.
+### 🧭 [Geo Coordinate Toolkit](https://github.com/raphaelperrut/geo-coordinate-toolkit)
 
-Projects planned for publication include:
+A lightweight Python CLI for coordinate transformation, CRS inspection, vector reprojection, geodesic distance calculation and geometry validation.
+
+Built as a tested and reproducible geospatial software package with a clean separation between core functionality and command-line presentation.
+
+`Python` · `PyProj` · `GeoPandas` · `Shapely` · `Typer` · `pytest` · `GitHub Actions`
+
+**Highlights:** 20 automated tests · Continuous integration · Python 3.12+ · MIT License · [v0.1.0](https://github.com/raphaelperrut/geo-coordinate-toolkit/releases/tag/v0.1.0)
+
+---
+
+### Projects in development
 
 ### 🗺️ Geospatial ETL Pipeline
 
@@ -137,7 +147,7 @@ I'm open to selected freelance, open-source and collaborative projects involving
 
 ## 📫 Connect
 
-I'm currently building my public portfolio and expanding my open-source contributions.
+I'm expanding my public portfolio through tested, documented and reproducible open-source geospatial software.
 
 - **GitHub:** [github.com/raphaelperrut](https://github.com/raphaelperrut)
 - **LinkedIn:** Coming soon
