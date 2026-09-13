@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+   <a href="https://github.com/raphaelperrut?tab=followers">
+    <img src="https://img.shields.io/github/followers/raphaelperrut?style=social" alt="GitHub followers">
+  </a>
   <a href="https://www.linkedin.com/in/raphael-perrut-8b2351323/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
