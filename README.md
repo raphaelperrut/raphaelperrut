@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=raphaelperrut.visitor-badge&left_text=visitors)
 ## 🧭 What I Build
 
 I combine **geospatial expertise and software engineering** to design tools, pipelines and applications for spatial data processing and analysis.
