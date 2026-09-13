@@ -145,8 +145,8 @@ I'm open to selected freelance, open-source and collaborative projects involving
 - Python automation
 - GIS workflow automation
 - PostGIS and spatial databases
+- Spatial ETL and data engineering
 - Remote sensing and satellite imagery
-- Spatial data pipelines
 - WebGIS
 - GeoAI
 - Open-source development and bounties
@@ -155,7 +155,7 @@ I'm open to selected freelance, open-source and collaborative projects involving
 
 ## 📫 Connect
 
-I'm expanding my public portfolio through tested, documented and reproducible open-source geospatial software.
+I build tested, documented and reproducible open-source geospatial software focused on real-world spatial data problems.
 
 - **GitHub:** [github.com/raphaelperrut](https://github.com/raphaelperrut)
 - **LinkedIn:** Coming soon
