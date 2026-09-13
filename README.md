@@ -91,15 +91,19 @@ Built as a reproducible end-to-end raster processing workflow with GCP validatio
 
 ---
 
-### Projects in development
+### 🔄 [Geospatial ETL Pipeline](https://github.com/raphaelperrut/geospatial-etl-pipeline)
 
-### 🗺️ Geospatial ETL Pipeline
+A reproducible Python ETL pipeline for ingesting, inspecting, validating, normalizing, transforming and loading heterogeneous geospatial vector datasets into PostgreSQL/PostGIS.
 
-A reproducible Python pipeline for ingesting, validating, transforming and loading heterogeneous geospatial datasets into PostGIS.
+Built around explicit and independently testable ETL stages, with CRS transformation, schema normalization, Docker-backed PostGIS integration and machine-readable execution reports.
 
-`Python` · `GeoPandas` · `GDAL` · `PostGIS` · `Docker`
+`Python` · `GeoPandas` · `PostGIS` · `PostgreSQL` · `SQLAlchemy` · `GeoAlchemy2` · `Typer` · `Docker` · `pytest` · `GitHub Actions`
+
+**Highlights:** 37 automated tests · Real PostGIS integration · End-to-end GeoPackage → PostGIS validation · Docker Compose · JSON ETL reports · Continuous integration · Python 3.12+ · MIT License · [v0.1.0](https://github.com/raphaelperrut/geospatial-etl-pipeline/releases/tag/v0.1.0)
 
 ---
+
+## 🚧 Projects in Development
 
 ### 🌊 DEM Hydrology Pipeline
 
@@ -117,6 +121,14 @@ A spatial backend for querying and processing geospatial data through REST APIs 
 
 ---
 
+### 🗺️ WebGIS
+
+Interactive web mapping applications connecting spatial databases, APIs and modern web mapping technologies.
+
+`MapLibre` · `React` · `Next.js` · `FastAPI` · `PostGIS`
+
+---
+
 ### 🛰️ Satellite Change Detection
 
 A reproducible workflow for detecting and analyzing changes from multi-temporal satellite imagery.
@@ -125,11 +137,17 @@ A reproducible workflow for detecting and analyzing changes from multi-temporal 
 
 ---
 
-### 🗺️ WebGIS
+## 🚀 Current Focus
 
-Interactive web mapping applications connecting spatial databases, APIs and modern web mapping technologies.
+I'm currently expanding this portfolio through progressively more complete geospatial software systems, with emphasis on:
 
-`MapLibre` · `React` · `Next.js` · `FastAPI` · `PostGIS`
+- DEM and hydrological processing
+- Spatial APIs and PostGIS-backed services
+- Satellite imagery processing
+- WebGIS architecture
+- GeoAI and computer vision
+- Reproducible geospatial workflows
+- Open-source software engineering
 
 ---
 
