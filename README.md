@@ -51,20 +51,6 @@ My main areas of interest include:
 
 ---
 
-## 🚀 Current Focus
-
-I'm currently expanding my work in:
-
-- Geospatial automation with Python
-- Spatial ETL and PostGIS pipelines
-- DEM and hydrological processing
-- Satellite imagery processing
-- WebGIS architecture
-- AI-assisted geospatial workflows
-- Open-source software development
-
----
-
 ## 📌 Featured Projects
 
 ### 🧭 [Geo Coordinate Toolkit](https://github.com/raphaelperrut/geo-coordinate-toolkit)
