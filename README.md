@@ -164,7 +164,7 @@ I'm open to selected freelance, open-source and collaborative projects involving
 I build tested, documented and reproducible open-source geospatial software focused on real-world spatial data problems.
 
 - **GitHub:** [github.com/raphaelperrut](https://github.com/raphaelperrut)
-- **LinkedIn:** Coming soon
+- **LinkedIn:** [linkedin.com/in/raphael-perrut-8b2351323](https://www.linkedin.com/in/raphael-perrut-8b2351323/)
 - **Portfolio:** Coming soon
 
 ---
