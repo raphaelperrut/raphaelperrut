@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/raphaelperrut?tab=followers"><img src="https://img.shields.io/github/followers/raphaelperrut?style=social" alt="GitHub followers"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/raphael-perrut-8b2351323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/raphael-perrut-8b2351323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=raphaelperrut.visitor-badge&left_text=visitors" alt="Profile visitors">
 </p>
 
