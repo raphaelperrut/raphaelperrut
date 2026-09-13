@@ -10,13 +10,19 @@
   Building reproducible software systems for complex geospatial problems.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/raphael-perrut-8b2351323/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raphaelperrut.visitor-badge&left_text=visitors" alt="Profile visitors">
+</p>
+
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=raphaelperrut.visitor-badge&left_text=visitors)
 ## 🧭 What I Build
 
 I combine **geospatial expertise and software engineering** to design tools, pipelines and applications for spatial data processing and analysis.
 
-My main areas of interest include:
+My main areas of work include:
 
 - **Geospatial Software Engineering** — GIS automation, spatial processing and geospatial applications
 - **Spatial Data Engineering** — ETL pipelines, spatial databases, data validation and transformation
@@ -125,7 +131,7 @@ A reproducible workflow for detecting and analyzing changes from multi-temporal 
 
 ## 🚀 Current Focus
 
-I'm currently expanding this portfolio through progressively more complete geospatial software systems, with emphasis on:
+I'm currently expanding this portfolio with increasingly complete geospatial software systems, with emphasis on:
 
 - DEM and hydrological processing
 - Spatial APIs and PostGIS-backed services
